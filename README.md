@@ -12,12 +12,3 @@ Email me on: allancorp250@gmail.com
 
 📞Tel: +250 798-856-624
 
-
-Instagram: allancorp_official
-
-
-Twitter or X: allancorp_official
-
-
-Youtube: allancorp_official
-
