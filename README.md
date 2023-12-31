@@ -1,6 +1,23 @@
-- 👋 Hi, I’m @allancorp23
-- 👀 I’m interested in developing Websites and Mobile Apps and also Desktop App 
-- 🌱 I’m currently learning .
-- 💞️ I’m looking to collaborate on many open source projects
-- 📫 How to reach me you can reach me through to me on my mobile phone which is +250 798-856-624
+Hi there, I'm @allancorp23 👋
+I'm a web developer,
+
+mobile developer and also desktop app developer
+
+
+Looking how I can get to contribute to open source projects!
+
+Email me on: allancorp250@gmail.com
+
+🤝 Connect with me:
+
+📞Tel: +250 798-856-624
+
+
+Instagram: allancorp_official
+
+
+Twitter or X: allancorp_official
+
+
+Youtube: allancorp_official
 
