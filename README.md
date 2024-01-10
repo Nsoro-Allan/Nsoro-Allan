@@ -1,4 +1,4 @@
-Hi there, We are @AllanCorp 👋
+Hi there, We are AllanCorp 👋
  We work on web developement,
 
 mobile developement and also desktop applications developement
