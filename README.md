@@ -1,14 +1,14 @@
-Hi there, I'm @allancorp23 👋
-I'm a web developer,
+Hi there, We are @AllanCorp 👋
+ We work on web developement,
 
-mobile developer and also desktop app developer
+mobile developement and also desktop applications developement
 
 
-Looking how I can get to contribute to open source projects!
+Looking how we can get to contribute to open source projects!
 
-Email me on: allancorp250@gmail.com
+Email us on: allancorp250@gmail.com
 
-🤝 Connect with me:
+🤝 Connect with us:
 
 📞Tel: +250 798-856-624
 
