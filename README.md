@@ -4,7 +4,7 @@ Hi there, We are AllanCorp 👋
 mobile developement and also desktop applications developement
 
 
-Looking how we can get to contribute to open source projects!
+Looking forward to contributing to open source projects!
 
 ✉️ Email us on: allancorp250@gmail.com
 
