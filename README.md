@@ -9,7 +9,8 @@ AllanCorp was created by Nsoro Allan, a passionate software developer based in K
 * 🌍  I'm based in Kigali, Rwanda
 * 🖥️  See AllanCorp's portfolio at [AllanCorp Portfolio](http://allancorp.netlify.app)
 * 🖥️  See Nsoro Allan's portfolio at [Nsoro Allan Portfolio](http://nsoroallan.netlify.app)
-* ✉️  You can contact me at [allancorp250@gmail.com](mailto:allancorp250@gmail.com)
+* ✉️  You can email me at [allancorp250@gmail.com](mailto:allancorp250@gmail.com)
+* ✉️  You can call me at [My Tel](tel:250798856624)
 * ⚡  We are open to collaborating with other developers.
 
 <a href="https://www.github.com/allancorp23" target="_blank" rel="noreferrer"><img
