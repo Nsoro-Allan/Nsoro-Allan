@@ -1,4 +1,4 @@
-Hello 👋 Welcome to AllanCorp
+Hello 👋 Welcome to AllanCorp.
 ==========================
 
 Full - Stack Web Development.
