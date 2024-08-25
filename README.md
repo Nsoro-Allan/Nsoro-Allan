@@ -38,10 +38,6 @@ src="https://img.shields.io/github/followers/allancorp23?logo=github&style=for-t
 
 <a href="https://github.com/allancorp23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allancorp23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### Support Me On:
 
-<ul style="list-style: none; margin: 0;">
-
-<li style="display: inline-block; list-style: none; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/allancorp"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
+<a href="https://www.ko-fi.com/allancorp"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
