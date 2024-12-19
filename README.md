@@ -1,4 +1,4 @@
-Hi 👋 Im' Nsoro Allan 
+Hi 👋 I'm Nsoro Allan 
 ==========================
 
 Full - Stack Web Developer.
