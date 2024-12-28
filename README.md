@@ -10,7 +10,7 @@ I'm Nsoro Allan, a passionate software developer based in Kigali, Rwanda. I spec
 * 🖥️  See AllanCorp's portfolio at [AllanCorp Portfolio](http://allancorp.netlify.app)
 * 🖥️  See Nsoro Allan's portfolio at [Nsoro Allan Portfolio](http://nsoroallan.netlify.app)
 * ✉️  You can email me at [nsoroallan@gmail.com](mailto:nsoroallan@gmail.com)
-* 📞  You can call me at [+250798856624](tel:250798856624)
+* 📞  You can call me at this number: [+250798856624](tel:250798856624)
 * ⚡  I'm open to collaborating with other developers.
 
 <a href="https://www.github.com/Nsoro-Allan" target="_blank" rel="noreferrer"><img
