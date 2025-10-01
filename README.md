@@ -11,5 +11,5 @@ I'm Nsoro Allan, a passionate software developer based in Kigali, Rwanda. I spec
 * ✉️  You can email me at [nsoroallan@gmail.com](mailto:nsoroallan@gmail.com)
 * ⚡  I'm open to collaborating with other developers.
 
-### HelpMe Out On:
+### Help Me Out On:
 <a href="https://www.ko-fi.com/allancorp"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
