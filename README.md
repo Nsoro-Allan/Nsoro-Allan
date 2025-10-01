@@ -1,13 +1,13 @@
 Hi 👋 I'm Nsoro Allan 
 ==========================
 
-Full - Stack Web Developer.
+Full-Stack Web Developer.
 -----------------------------
 
-I'm Nsoro Allan, a passionate software developer based in Kigali, Rwanda. I specialize in web development, mobile development, and desktop application development. I'm always excited to contribute to open-source projects and collaborate on innovative solutions. Let's build something amazing together!
+I'm Nsoro Allan, a dedicated software developer based in Kigali, Rwanda. I specialize in web development. I actively contribute to open-source projects and seek collaboration on innovative solutions. Together, we can create something truly exceptional!
 
 * 🌍  I'm based in Kigali, Rwanda
-* 🖥️  See Nsoro Allan's portfolio at [Nsoro Allan Portfolio](http://nsoroallan.com)
+* 🖥️ Check out my portfolio here [nsoroallan.com](https://nsoroallan.com)
 * ✉️  You can email me at [nsoroallan@gmail.com](mailto:nsoroallan@gmail.com)
 * ⚡  I'm open to collaborating with other developers.
 
