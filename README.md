@@ -1,5 +1,5 @@
 Hi 👋 I'm Nsoro Allan.
-==========================
+========================
 I'm Nsoro Allan, a dedicated software engineer based in Kigali, Rwanda. I specialize in web development. I actively contribute to open-source projects and seek collaboration on innovative solutions. Together, we can create something truly exceptional!
 
 * 🌍  I'm based in Kigali, Rwanda
