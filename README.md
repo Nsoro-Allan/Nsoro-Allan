@@ -4,7 +4,6 @@ I'm Nsoro Allan, a software engineer based in Kigali, Rwanda. I specialize in we
 
 * 🌍  I'm based in Kigali, Rwanda
 * 🖥️ Check out my portfolio here [www.nsoroallan.com](https://www.nsoroallan.com)
-* 📩  You can email me at [nsoroallan@gmail.com](mailto:nsoroallan@gmail.com)
 * ⚡  I'm open to collaborating with other developers.
 
 ### Help Me Out On:
