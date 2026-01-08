@@ -7,5 +7,5 @@ I'm Nsoro Allan, a software engineer based in Kigali, Rwanda. I specialize in we
 * ⚡  I'm open to collaborating with other developers.
 * 📧 Contact me here: contact@nsoroallan.com
 
-### Help Me Out On:
+### Help Me Out:
 <a href="https://ko-fi.com/nsoroallan"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
